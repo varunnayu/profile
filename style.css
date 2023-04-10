@@ -287,7 +287,7 @@ form.btn2{
 nav .fa-solid{
     display: none;
 }
-@media only screen and (max-width:640px){
+@media only screen and (max-width:480px){
     .heder-text{
         margin-top: 100%;
         font-size: 16px;
